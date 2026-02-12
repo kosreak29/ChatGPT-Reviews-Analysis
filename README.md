@@ -75,7 +75,7 @@ This analysis helps:
 * Build interactive dashboard using Streamlit
 * Perform deeper correlation analysis
 
-📂 Project Structure
+## 📂 Project Structure
 ChatGPT_Reviews_Analysis.ipynb
 chatgpt_reviews.csv
 README.md
