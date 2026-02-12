@@ -30,6 +30,7 @@ This project aims to:
 * WordCloud
 
 📊 Key Analysis Performed
+
 1️⃣ Sentiment Analysis
 * Calculated sentiment polarity using TextBlob
 * Classified reviews into Positive, Negative, and Neutral
