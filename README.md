@@ -82,9 +82,9 @@ This analysis helps:
 └── README.md
 
 🧠 Project Type
-Natural Language Processing (NLP)
-Sentiment Analysis
-Customer Feedback Analytics
+* Natural Language Processing (NLP)
+* Sentiment Analysis
+* Customer Feedback Analytics
 
 ✨ Author
 Aman Kosre
