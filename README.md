@@ -2,8 +2,8 @@
 NLP-based sentiment and issue analysis of ChatGPT user reviews using TextBlob and Python.
 
 🤖 ChatGPT Reviews Sentiment Analysis (NLP Project)
-📌 Project Overview
 
+📌 Project Overview
 This project analyzes user reviews of ChatGPT using Natural Language Processing (NLP) techniques in Python.
 
 The objective is to understand:
