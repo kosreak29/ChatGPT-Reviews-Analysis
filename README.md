@@ -81,7 +81,7 @@ This analysis helps:
 ├── chatgpt_reviews.csv  
 └── README.md  
 
-🧠 Project Type
+🧠 Project Type  
 Natural Language Processing (NLP)  
 Sentiment Analysis  
 Customer Feedback Analytics  
