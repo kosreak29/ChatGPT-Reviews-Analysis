@@ -77,14 +77,14 @@ This analysis helps:
 * Perform deeper correlation analysis
 
 ## 📂 Project Structure
-├── ChatGPT_Reviews_Analysis.ipynb
-├── chatgpt_reviews.csv
-└── README.md
+  ├── ChatGPT_Reviews_Analysis.ipynb
+  ├── chatgpt_reviews.csv
+  └── README.md
 
 🧠 Project Type
-* Natural Language Processing (NLP)
-* Sentiment Analysis
-* Customer Feedback Analytics
+  Natural Language Processing (NLP)
+  Sentiment Analysis
+  Customer Feedback Analytics
 
 ✨ Author
 Aman Kosre
